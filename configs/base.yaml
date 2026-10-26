@@ -1,0 +1,12 @@
+# Shared configuration template; values remain unset until experiment design.
+seed: 0
+environment:
+  grid_size: null
+  observation_mode: null
+agent:
+  algorithm: null
+training:
+  total_steps: null
+evaluation:
+  episodes: null
+results_dir: results
