@@ -13,5 +13,6 @@ dist/
 *.pth
 results/checkpoints/
 results/runs/
+results/smoke_suite/
 .ruff_cache/
 *.log

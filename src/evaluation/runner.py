@@ -10,7 +10,7 @@ from experiments.provenance import file_hash, provenance, seed_everything, write
 
 
 def run_evaluation(
-    config, *, checkpoint=None, baseline=None, output=None, max_seconds=None, kind="pilot"
+    config, *, checkpoint=None, baseline=None, output=None, max_seconds=None, kind=None
 ):
     seed_everything(config["seed"], config["training"]["torch_threads"])
     model = None
@@ -18,9 +18,11 @@ def run_evaluation(
         from stable_baselines3 import PPO
 
         model = PPO.load(checkpoint, device=config["training"]["device"])
+        if kind is None:
+            kind = json.loads((Path(checkpoint).parent / "manifest.json").read_text())["kind"]
     record = evaluate(config, model=model, baseline=baseline, max_seconds=max_seconds)
     summary = summarise(record["episodes"], config["seed"])
-    manifest = provenance(config, kind)
+    manifest = provenance(config, kind or "reference_baseline")
     manifest.update(
         {
             "checkpoint": str(checkpoint) if checkpoint else None,

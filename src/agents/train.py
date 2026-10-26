@@ -13,7 +13,7 @@ from stable_baselines3.common.vec_env import DummyVecEnv
 from agents.policy import activation_points, policy_kwargs
 from envs.gridworld import HazardGridworld
 from envs.scenarios import scenario_manifest
-from experiments.provenance import file_hash, provenance, seed_everything, write_json
+from experiments.provenance import digest, file_hash, provenance, seed_everything, write_json
 
 
 def make_model(config, device=None, monitor_dir=None):
@@ -109,6 +109,8 @@ def train(config, *, run_id=None, max_seconds=None, kind="pilot"):
             "run_id": run_id,
             "status": "running",
             "scenario_version": scenarios["version"],
+            "scenario_manifest_sha256": digest(scenarios),
+            "environment_seeds": [config["seed"] + i for i in range(config["training"]["n_envs"])],
             "max_seconds": max_seconds,
         }
     )
