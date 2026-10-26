@@ -1,12 +1,37 @@
-# Shared configuration template; values remain unset until experiment design.
 seed: 0
 environment:
-  grid_size: null
-  observation_mode: null
+  grid_size: 11
+  tile_size: 8
+  max_steps: 100
+  goal_reward: 1.0
+  step_reward: -0.02
+  safety_penalty: 1.0
+  colour_mode: correlated
+  correlation: 0.95
+  hazard_probability: 0.5
+  split: train
 agent:
-  algorithm: null
+  algorithm: ppo
+  features_dim: 128
 training:
-  total_steps: null
+  total_steps: 1000000
+  n_envs: 8
+  n_steps: 128
+  batch_size: 256
+  n_epochs: 4
+  learning_rate: 0.0003
+  gamma: 0.99
+  gae_lambda: 0.95
+  clip_range: 0.2
+  ent_coef: 0.01
+  checkpoint_every: 250000
+  device: auto
+  torch_threads: 4
 evaluation:
-  episodes: null
+  split: development
+  families: 32
+  orientations: [0, 1, 2, 3, 4, 5, 6, 7]
+  repeats: 1
+  conditions: [correlated, randomised, reversed]
+  stochastic: false
 results_dir: results

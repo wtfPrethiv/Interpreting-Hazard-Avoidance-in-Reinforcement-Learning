@@ -1,9 +1,5 @@
-# Intended overlay on base.yaml; config loading is not implemented yet.
-research_question: rq1_appearance
-intervention:
-  type: appearance
-  training_appearances: []
-  held_out_appearances: []
-  preserve_hazard_dynamics: true
-  preserve_rewards: true
-seeds: [0, 1, 2]
+# Evaluation matrix; apply after a training-condition overlay.
+evaluation:
+  conditions: [correlated, randomised, reversed]
+  split: development
+  families: 32

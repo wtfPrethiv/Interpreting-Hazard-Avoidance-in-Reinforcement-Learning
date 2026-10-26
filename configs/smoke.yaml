@@ -1,0 +1,11 @@
+training:
+  total_steps: 1024
+  n_envs: 2
+  n_steps: 64
+  batch_size: 64
+  n_epochs: 1
+  checkpoint_every: 512
+  device: cpu
+evaluation:
+  families: 2
+  orientations: [0, 1]

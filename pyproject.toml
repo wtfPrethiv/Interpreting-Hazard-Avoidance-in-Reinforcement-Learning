@@ -3,19 +3,30 @@ requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "recognising-danger"
+name = "interpreting-hazard-avoidance-in-reinforcement-learning"
 version = "0.1.0"
-description = "Research scaffold for interpreting hazard avoidance in reinforcement learning"
+description = "Reproducible RQ1 experiments on visual cue reliance and hazard avoidance"
 readme = "README.md"
-requires-python = ">=3.10"
-dependencies = []
+requires-python = ">=3.12"
+dependencies = [
+  "numpy>=2.0,<3", "gymnasium>=1.0,<2", "torch>=2.8,<3",
+  "stable-baselines3==2.9.2", "PyYAML>=6,<7", "matplotlib>=3.9,<4",
+]
 
 [project.optional-dependencies]
-dev = ["pytest"]
+dev = ["pytest>=8", "ruff>=0.11"]
 notebooks = ["jupyterlab", "ipykernel"]
 
 [tool.setuptools.packages.find]
 where = ["src"]
+include = ["agents*", "envs*", "evaluation*", "experiments*", "interpretability*"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I"]
