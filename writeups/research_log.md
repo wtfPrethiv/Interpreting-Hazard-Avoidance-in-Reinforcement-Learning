@@ -1,6 +1,6 @@
 # Research log
 
-## 2026-10-26 — implementation and pre-pilot validation
+## 2026-10-26 â€” implementation and pre-pilot validation
 
 - Preserved the original scaffold in commit `2ac8545` before implementation.
 - Restricted this phase to RQ1 behaviour. Interpretability modules stay deferred
@@ -18,6 +18,26 @@
   figure/evaluation evidence labels so smoke results remain distinguishable.
 - Main protocol remains unfrozen. Next: benchmark, run one bounded pilot per
   condition, and record the actual competence results without interpreting mechanisms.
+
+## 2026-10-26 — bounded pilot outcomes
+
+- Suite: `pilot_suite_20261026T135243493782`; seed 0 per condition; 999,424 transitions each.
+- Total suite time: 925.625 seconds, within the 7,200-second budget.
+- Both complete paired evaluations failed readiness. Familiar hazardous-case entry
+  was 38.3% (correlated training) and 54.7% (randomised training); overall goal
+  success was 88.5% and 88.3%. Safe-shortcut success was 96.9% for both.
+- All five reference baselines completed. Symbol and oracle references reached
+  100% success with no hazard entry in every evaluated cue condition.
+- Retained all checkpoints and trajectories. Visually inspected the final figure;
+  it distinguishes hazardous-case success from safe-shortcut competence.
+- No settings changed in response to these outcomes. No main runs, discovery-data
+  analysis, probe fitting, or neural interventions were performed.
+- Manifests truthfully flag the working tree dirty: generated results were
+  untracked; at first launch the only source difference was two formatting blank
+  lines, committed as `a33e5bd`. Both runs used functionally identical source.
+- Proposed next action: review failure traces and consider a separately versioned,
+  longer development run before changing other factors. This was not executed.
+- Full numerical results and limitations: [RQ1 pilot findings](rq1_findings.md).
 
 ## Entry template
 

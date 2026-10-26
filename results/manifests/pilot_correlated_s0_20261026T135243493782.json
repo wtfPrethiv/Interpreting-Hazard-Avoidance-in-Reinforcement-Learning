@@ -1,0 +1,154 @@
+{
+  "kind": "pilot",
+  "created_utc": "2026-10-26T13:52:48.639888+00:00",
+  "config": {
+    "seed": 0,
+    "environment": {
+      "grid_size": 11,
+      "tile_size": 8,
+      "max_steps": 100,
+      "goal_reward": 1.0,
+      "step_reward": -0.02,
+      "safety_penalty": 1.0,
+      "colour_mode": "correlated",
+      "correlation": 0.95,
+      "hazard_probability": 0.5,
+      "split": "train"
+    },
+    "agent": {
+      "algorithm": "ppo",
+      "features_dim": 128
+    },
+    "training": {
+      "total_steps": 1000000,
+      "n_envs": 8,
+      "n_steps": 128,
+      "batch_size": 256,
+      "n_epochs": 4,
+      "learning_rate": 0.0003,
+      "gamma": 0.99,
+      "gae_lambda": 0.95,
+      "clip_range": 0.2,
+      "ent_coef": 0.01,
+      "checkpoint_every": 250000,
+      "device": "cuda",
+      "torch_threads": 4
+    },
+    "evaluation": {
+      "split": "development",
+      "families": 32,
+      "orientations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "repeats": 1,
+      "conditions": [
+        "correlated",
+        "randomised",
+        "reversed"
+      ],
+      "stochastic": false
+    },
+    "results_dir": "results"
+  },
+  "config_sha256": "a280d2d65cd3c0b68f08cd24ebaa0f25b74aa83ec473627f0ce905f40bc86cfe",
+  "git_revision": "dbcb462bcfa9c653123f291a23d66860a782ea20",
+  "git_dirty": true,
+  "python": "3.12.15",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "dependencies": {
+    "Farama-Notifications": "0.0.6",
+    "Jinja2": "3.1.6",
+    "MarkupSafe": "3.0.3",
+    "PyYAML": "6.0.3",
+    "Pygments": "2.21.0",
+    "cloudpickle": "3.1.2",
+    "colorama": "0.4.6",
+    "contourpy": "1.4.0",
+    "cycler": "0.12.1",
+    "filelock": "3.32.3",
+    "fonttools": "4.67.0",
+    "fsspec": "2026.7.0",
+    "gymnasium": "1.4.0",
+    "iniconfig": "2.3.1",
+    "interpreting-hazard-avoidance-in-reinforcement-learning": "0.1.0",
+    "kiwisolver": "1.5.1",
+    "matplotlib": "3.11.2",
+    "mpmath": "1.3.0",
+    "networkx": "3.6.1",
+    "numpy": "2.5.4",
+    "packaging": "26.3",
+    "pillow": "13.0.0",
+    "pip": "25.0.1",
+    "pluggy": "1.7.0",
+    "pyparsing": "3.3.3",
+    "pytest": "9.1.1",
+    "python-dateutil": "3.0.0",
+    "ruff": "0.17.2",
+    "setuptools": "78.1.0",
+    "six": "1.17.0",
+    "stable_baselines3": "2.9.2",
+    "sympy": "1.14.0",
+    "torch": "2.9.1+cu128",
+    "typing_extensions": "4.16.0",
+    "tzdata": "2026.5"
+  },
+  "run_id": "pilot_correlated_s0_20261026T135243493782",
+  "status": "completed",
+  "scenario_version": "rq1-layouts-v1",
+  "scenario_manifest_sha256": "a94ce1937301b9b3fe37a0ae573d2f4a79245c5fef237c33e2e95f60a6ee332e",
+  "environment_seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "max_seconds": 3147.4449999999997,
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "parameters": 526917,
+  "activation_points": [
+    "encoder.conv1",
+    "encoder.conv2",
+    "encoder.conv3",
+    "encoder.features",
+    "actor.hidden"
+  ],
+  "encoder_shared_actor_critic": true,
+  "actual_steps": 999424,
+  "checkpoints": [
+    {
+      "path": "C:\\Users\\prethiv\\OneDrive\\Documents\\VS Shit\\Spaces\\Machine Learning\\Interpreting-Hazard-Avoidance-in-Reinforcement-Learning\\results\\runs\\pilot_correlated_s0_20261026T135243493782\\step_250000.zip",
+      "sha256": "a36f667fd3cf7891e80403942cc584233852230ec0f74af7f59a9d89df796673",
+      "steps": 250000
+    },
+    {
+      "path": "C:\\Users\\prethiv\\OneDrive\\Documents\\VS Shit\\Spaces\\Machine Learning\\Interpreting-Hazard-Avoidance-in-Reinforcement-Learning\\results\\runs\\pilot_correlated_s0_20261026T135243493782\\step_500000.zip",
+      "sha256": "f40b53bda1dcc24efa847c0e82c27be8412b0342fa10faff60c5359581432f87",
+      "steps": 500000
+    },
+    {
+      "path": "C:\\Users\\prethiv\\OneDrive\\Documents\\VS Shit\\Spaces\\Machine Learning\\Interpreting-Hazard-Avoidance-in-Reinforcement-Learning\\results\\runs\\pilot_correlated_s0_20261026T135243493782\\step_750000.zip",
+      "sha256": "677d913db6b1f999fc0c5cec4e7e3594a23932c7431fa6c1b0ff4cd759a8f6b0",
+      "steps": 750000
+    },
+    {
+      "path": "C:\\Users\\prethiv\\OneDrive\\Documents\\VS Shit\\Spaces\\Machine Learning\\Interpreting-Hazard-Avoidance-in-Reinforcement-Learning\\results\\runs\\pilot_correlated_s0_20261026T135243493782\\final.zip",
+      "sha256": "98efb95e3a4005af38007006ba962c0d69045a467683962dac5010108ee0855f",
+      "steps": 999424
+    }
+  ],
+  "checkpoint": "C:\\Users\\prethiv\\OneDrive\\Documents\\VS Shit\\Spaces\\Machine Learning\\Interpreting-Hazard-Avoidance-in-Reinforcement-Learning\\results\\runs\\pilot_correlated_s0_20261026T135243493782\\final.zip",
+  "checkpoint_sha256": "98efb95e3a4005af38007006ba962c0d69045a467683962dac5010108ee0855f",
+  "elapsed_seconds": 451.5
+}

@@ -5,6 +5,11 @@ avoidance generalise when colours change?** This exploratory study separates tas
 success from safety. RQ2 and interpretability experiments are outside the current
 implementation. Named policy activation points are available for later work together.
 
+**Current evidence:** both one-seed behavioural pilots completed but failed the
+predefined competence gates. Familiar hazardous-case entry was 38.3% with correlated
+training and 54.7% with randomised training. These are pilot observations, not
+mechanistic findings. See [the results and next steps](writeups/rq1_findings.md).
+
 ## Setup
 
 Use Python 3.12 from the repository root. On this Windows machine:
@@ -15,6 +20,7 @@ py -V:Astral/CPython3.12.15 -m venv .venv
 .venv/Scripts/python -m pip install torch==2.9.1 --index-url https://download.pytorch.org/whl/cu128
 .venv/Scripts/python -m pip install -e '.[dev]'
 .venv/Scripts/python -m pytest -q
+.venv/Scripts/python scripts/check_environment.py
 ```
 
 On other systems use `python3.12 -m venv .venv`, activate it, then run
