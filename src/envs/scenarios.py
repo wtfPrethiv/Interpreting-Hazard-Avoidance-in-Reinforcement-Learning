@@ -107,8 +107,10 @@ def make_scenario(family_id, orientation=0, hazardous=True, appearance_seed=0):
     # Move marked positions within each geometry; never mark start or goal.
     shortcut = short[1 + family_id % (len(short) - 2)]
     comparison = detour[len(detour) // 2]
+
     def convert(points):
         return tuple(transform(p, orientation) for p in points)
+
     return Scenario(
         family_id,
         orientation,
