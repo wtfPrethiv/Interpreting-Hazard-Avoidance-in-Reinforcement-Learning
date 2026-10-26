@@ -1,0 +1,3077 @@
+{
+  "kind": "environment_validation",
+  "route_values": [
+    {
+      "family_id": 0,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 0,
+      "hazardous": true,
+      "short": -0.1374238902,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 1,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 1,
+      "hazardous": true,
+      "short": -0.09850897999999997,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 2,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 2,
+      "hazardous": true,
+      "short": -0.08860897999999995,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 3,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 3,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 4,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 4,
+      "hazardous": true,
+      "short": -0.09850897999999997,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 5,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 5,
+      "hazardous": true,
+      "short": -0.1274238902,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 6,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 6,
+      "hazardous": true,
+      "short": -0.15604965129800008,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 7,
+      "hazardous": false,
+      "short": 0.8056108452149799,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 7,
+      "hazardous": true,
+      "short": -0.18438915478502005,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 8,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 8,
+      "hazardous": true,
+      "short": -0.0793020000000001,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 9,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 9,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 10,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.4868510091212609
+    },
+    {
+      "family_id": 10,
+      "hazardous": true,
+      "short": -0.11752389019999998,
+      "detour": 0.4868510091212609
+    },
+    {
+      "family_id": 11,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.5629738968310396
+    },
+    {
+      "family_id": 11,
+      "hazardous": true,
+      "short": -0.08860897999999995,
+      "detour": 0.5629738968310396
+    },
+    {
+      "family_id": 12,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 12,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 13,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 13,
+      "hazardous": true,
+      "short": -0.1274238902,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 14,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 14,
+      "hazardous": true,
+      "short": -0.0793020000000001,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 15,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 15,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 16,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 16,
+      "hazardous": true,
+      "short": -0.0793020000000001,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 17,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 17,
+      "hazardous": true,
+      "short": -0.1274238902,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 18,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 18,
+      "hazardous": true,
+      "short": -0.13634865129800033,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 19,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 19,
+      "hazardous": true,
+      "short": -0.09850897999999997,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 20,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 20,
+      "hazardous": true,
+      "short": -0.1374238902,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 21,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 21,
+      "hazardous": true,
+      "short": -0.1274238902,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 22,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.8056108452149799
+    },
+    {
+      "family_id": 22,
+      "hazardous": true,
+      "short": -0.0793020000000001,
+      "detour": 0.8056108452149799
+    },
+    {
+      "family_id": 23,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.5373441578627293
+    },
+    {
+      "family_id": 23,
+      "hazardous": true,
+      "short": -0.10772289020000025,
+      "detour": 0.5373441578627293
+    },
+    {
+      "family_id": 24,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.5629738968310396
+    },
+    {
+      "family_id": 24,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.5629738968310396
+    },
+    {
+      "family_id": 25,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 25,
+      "hazardous": true,
+      "short": -0.09850897999999997,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 26,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.511970716284102
+    },
+    {
+      "family_id": 26,
+      "hazardous": true,
+      "short": -0.15604965129800008,
+      "detour": 0.511970716284102
+    },
+    {
+      "family_id": 27,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 27,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 28,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.4868510091212609
+    },
+    {
+      "family_id": 28,
+      "hazardous": true,
+      "short": -0.1374238902,
+      "detour": 0.4868510091212609
+    },
+    {
+      "family_id": 29,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 29,
+      "hazardous": true,
+      "short": -0.08860897999999995,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 30,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 30,
+      "hazardous": true,
+      "short": -0.0793020000000001,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 31,
+      "hazardous": false,
+      "short": 0.8056108452149799,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 31,
+      "hazardous": true,
+      "short": -0.18438915478502005,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 32,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 32,
+      "hazardous": true,
+      "short": -0.1374238902,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 33,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 33,
+      "hazardous": true,
+      "short": -0.1274238902,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 34,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 34,
+      "hazardous": true,
+      "short": -0.0793020000000001,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 35,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.4868510091212609
+    },
+    {
+      "family_id": 35,
+      "hazardous": true,
+      "short": -0.10772289020000025,
+      "detour": 0.4868510091212609
+    },
+    {
+      "family_id": 36,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 36,
+      "hazardous": true,
+      "short": -0.0793020000000001,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 37,
+      "hazardous": false,
+      "short": 0.7775547367628302,
+      "detour": 0.4129890472993503
+    },
+    {
+      "family_id": 37,
+      "hazardous": true,
+      "short": -0.20254526323716981,
+      "detour": 0.4129890472993503
+    },
+    {
+      "family_id": 38,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 38,
+      "hazardous": true,
+      "short": -0.11752389019999998,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 39,
+      "hazardous": false,
+      "short": 0.8056108452149799,
+      "detour": 0.4868510091212609
+    },
+    {
+      "family_id": 39,
+      "hazardous": true,
+      "short": -0.1646881547850203,
+      "detour": 0.4868510091212609
+    },
+    {
+      "family_id": 40,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 40,
+      "hazardous": true,
+      "short": -0.1374238902,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 41,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 41,
+      "hazardous": true,
+      "short": -0.15604965129800008,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 42,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 42,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 43,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 43,
+      "hazardous": true,
+      "short": -0.09850897999999997,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 44,
+      "hazardous": false,
+      "short": 0.8056108452149799,
+      "detour": 0.5373441578627293
+    },
+    {
+      "family_id": 44,
+      "hazardous": true,
+      "short": -0.17448915478502003,
+      "detour": 0.5373441578627293
+    },
+    {
+      "family_id": 45,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 45,
+      "hazardous": true,
+      "short": -0.1660496512980001,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 46,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.46198249903004834
+    },
+    {
+      "family_id": 46,
+      "hazardous": true,
+      "short": -0.15604965129800008,
+      "detour": 0.46198249903004834
+    },
+    {
+      "family_id": 47,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.46198249903004834
+    },
+    {
+      "family_id": 47,
+      "hazardous": true,
+      "short": -0.14614965129800006,
+      "detour": 0.46198249903004834
+    },
+    {
+      "family_id": 48,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 48,
+      "hazardous": true,
+      "short": -0.13634865129800033,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 49,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.5629738968310396
+    },
+    {
+      "family_id": 49,
+      "hazardous": true,
+      "short": -0.12664566129800003,
+      "detour": 0.5629738968310396
+    },
+    {
+      "family_id": 50,
+      "hazardous": false,
+      "short": 0.8056108452149799,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 50,
+      "hazardous": true,
+      "short": -0.17448915478502003,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 51,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 51,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 52,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 52,
+      "hazardous": true,
+      "short": -0.1374238902,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 53,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 53,
+      "hazardous": true,
+      "short": -0.13634865129800033,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 54,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.5629738968310396
+    },
+    {
+      "family_id": 54,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.5629738968310396
+    },
+    {
+      "family_id": 55,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 55,
+      "hazardous": true,
+      "short": -0.10772289020000025,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 56,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 56,
+      "hazardous": true,
+      "short": -0.08860897999999995,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 57,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 57,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 58,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 58,
+      "hazardous": true,
+      "short": -0.0793020000000001,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 59,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 59,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 60,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 60,
+      "hazardous": true,
+      "short": -0.1374238902,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 61,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 61,
+      "hazardous": true,
+      "short": -0.1274238902,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 62,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.5629738968310396
+    },
+    {
+      "family_id": 62,
+      "hazardous": true,
+      "short": -0.14614965129800006,
+      "detour": 0.5629738968310396
+    },
+    {
+      "family_id": 63,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 63,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 64,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 64,
+      "hazardous": true,
+      "short": -0.09850897999999997,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 65,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.5373441578627293
+    },
+    {
+      "family_id": 65,
+      "hazardous": true,
+      "short": -0.1274238902,
+      "detour": 0.5373441578627293
+    },
+    {
+      "family_id": 66,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 66,
+      "hazardous": true,
+      "short": -0.0793020000000001,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 67,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.8056108452149799
+    },
+    {
+      "family_id": 67,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.8056108452149799
+    },
+    {
+      "family_id": 68,
+      "hazardous": false,
+      "short": 0.7775547367628302,
+      "detour": 0.5629738968310396
+    },
+    {
+      "family_id": 68,
+      "hazardous": true,
+      "short": -0.17343531313716976,
+      "detour": 0.5629738968310396
+    },
+    {
+      "family_id": 69,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 69,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 70,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 70,
+      "hazardous": true,
+      "short": -0.0793020000000001,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 71,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.5373441578627293
+    },
+    {
+      "family_id": 71,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.5373441578627293
+    },
+    {
+      "family_id": 72,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 72,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 73,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 73,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 74,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.8056108452149799
+    },
+    {
+      "family_id": 74,
+      "hazardous": true,
+      "short": -0.0793020000000001,
+      "detour": 0.8056108452149799
+    },
+    {
+      "family_id": 75,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 75,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 76,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 76,
+      "hazardous": true,
+      "short": -0.09850897999999997,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 77,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 77,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 78,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.8056108452149799
+    },
+    {
+      "family_id": 78,
+      "hazardous": true,
+      "short": -0.0793020000000001,
+      "detour": 0.8056108452149799
+    },
+    {
+      "family_id": 79,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 79,
+      "hazardous": true,
+      "short": -0.09850897999999997,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 80,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.511970716284102
+    },
+    {
+      "family_id": 80,
+      "hazardous": true,
+      "short": -0.08860897999999995,
+      "detour": 0.511970716284102
+    },
+    {
+      "family_id": 81,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 81,
+      "hazardous": true,
+      "short": -0.15604965129800008,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 82,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.4868510091212609
+    },
+    {
+      "family_id": 82,
+      "hazardous": true,
+      "short": -0.11752389019999998,
+      "detour": 0.4868510091212609
+    },
+    {
+      "family_id": 83,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 83,
+      "hazardous": true,
+      "short": -0.08860897999999995,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 84,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 84,
+      "hazardous": true,
+      "short": -0.1374238902,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 85,
+      "hazardous": false,
+      "short": 0.7775547367628302,
+      "detour": 0.46198249903004834
+    },
+    {
+      "family_id": 85,
+      "hazardous": true,
+      "short": -0.21244526323716983,
+      "detour": 0.46198249903004834
+    },
+    {
+      "family_id": 86,
+      "hazardous": false,
+      "short": 0.8056108452149799,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 86,
+      "hazardous": true,
+      "short": -0.17448915478502003,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 87,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.5373441578627293
+    },
+    {
+      "family_id": 87,
+      "hazardous": true,
+      "short": -0.10772289020000025,
+      "detour": 0.5373441578627293
+    },
+    {
+      "family_id": 88,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 88,
+      "hazardous": true,
+      "short": -0.09850897999999997,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 89,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.8056108452149799
+    },
+    {
+      "family_id": 89,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.8056108452149799
+    },
+    {
+      "family_id": 90,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 90,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 91,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 91,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 92,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 92,
+      "hazardous": true,
+      "short": -0.08860897999999995,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 93,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 93,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 94,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 94,
+      "hazardous": true,
+      "short": -0.09850897999999997,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 95,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.46198249903004834
+    },
+    {
+      "family_id": 95,
+      "hazardous": true,
+      "short": -0.1660496512980001,
+      "detour": 0.46198249903004834
+    },
+    {
+      "family_id": 96,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 96,
+      "hazardous": true,
+      "short": -0.15604965129800008,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 97,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 97,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 98,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 98,
+      "hazardous": true,
+      "short": -0.0793020000000001,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 99,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 99,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 100,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.511970716284102
+    },
+    {
+      "family_id": 100,
+      "hazardous": true,
+      "short": -0.09850897999999997,
+      "detour": 0.511970716284102
+    },
+    {
+      "family_id": 101,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 101,
+      "hazardous": true,
+      "short": -0.08860897999999995,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 102,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 102,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 103,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.8056108452149799
+    },
+    {
+      "family_id": 103,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.8056108452149799
+    },
+    {
+      "family_id": 104,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 104,
+      "hazardous": true,
+      "short": -0.08860897999999995,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 105,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 105,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 106,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 106,
+      "hazardous": true,
+      "short": -0.11752389019999998,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 107,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.511970716284102
+    },
+    {
+      "family_id": 107,
+      "hazardous": true,
+      "short": -0.08860897999999995,
+      "detour": 0.511970716284102
+    },
+    {
+      "family_id": 108,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 108,
+      "hazardous": true,
+      "short": -0.1374238902,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 109,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 109,
+      "hazardous": true,
+      "short": -0.12664566129800003,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 110,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 110,
+      "hazardous": true,
+      "short": -0.11752389019999998,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 111,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 111,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 112,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.5373441578627293
+    },
+    {
+      "family_id": 112,
+      "hazardous": true,
+      "short": -0.1374238902,
+      "detour": 0.5373441578627293
+    },
+    {
+      "family_id": 113,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.8056108452149799
+    },
+    {
+      "family_id": 113,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.8056108452149799
+    },
+    {
+      "family_id": 114,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.5629738968310396
+    },
+    {
+      "family_id": 114,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.5629738968310396
+    },
+    {
+      "family_id": 115,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.46198249903004834
+    },
+    {
+      "family_id": 115,
+      "hazardous": true,
+      "short": -0.1660496512980001,
+      "detour": 0.46198249903004834
+    },
+    {
+      "family_id": 116,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 116,
+      "hazardous": true,
+      "short": -0.08860897999999995,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 117,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 117,
+      "hazardous": true,
+      "short": -0.1274238902,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 118,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.5629738968310396
+    },
+    {
+      "family_id": 118,
+      "hazardous": true,
+      "short": -0.09850897999999997,
+      "detour": 0.5629738968310396
+    },
+    {
+      "family_id": 119,
+      "hazardous": false,
+      "short": 0.7775547367628302,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 119,
+      "hazardous": true,
+      "short": -0.22244526323716984,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 120,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.8056108452149799
+    },
+    {
+      "family_id": 120,
+      "hazardous": true,
+      "short": -0.0793020000000001,
+      "detour": 0.8056108452149799
+    },
+    {
+      "family_id": 121,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 121,
+      "hazardous": true,
+      "short": -0.09850897999999997,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 122,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 122,
+      "hazardous": true,
+      "short": -0.11752389019999998,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 123,
+      "hazardous": false,
+      "short": 0.7775547367628302,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 123,
+      "hazardous": true,
+      "short": -0.1830412732371698,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 124,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 124,
+      "hazardous": true,
+      "short": -0.1374238902,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 125,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 125,
+      "hazardous": true,
+      "short": -0.1274238902,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 126,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 126,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 127,
+      "hazardous": false,
+      "short": 0.8056108452149799,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 127,
+      "hazardous": true,
+      "short": -0.18438915478502005,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 128,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 128,
+      "hazardous": true,
+      "short": -0.08860897999999995,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 129,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 129,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 130,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 130,
+      "hazardous": true,
+      "short": -0.1660496512980001,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 131,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.8056108452149799
+    },
+    {
+      "family_id": 131,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.8056108452149799
+    },
+    {
+      "family_id": 132,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 132,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 133,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 133,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 134,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.5629738968310396
+    },
+    {
+      "family_id": 134,
+      "hazardous": true,
+      "short": -0.08860897999999995,
+      "detour": 0.5629738968310396
+    },
+    {
+      "family_id": 135,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.8056108452149799
+    },
+    {
+      "family_id": 135,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.8056108452149799
+    },
+    {
+      "family_id": 136,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 136,
+      "hazardous": true,
+      "short": -0.0793020000000001,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 137,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 137,
+      "hazardous": true,
+      "short": -0.1274238902,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 138,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 138,
+      "hazardous": true,
+      "short": -0.0793020000000001,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 139,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 139,
+      "hazardous": true,
+      "short": -0.12664566129800003,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 140,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 140,
+      "hazardous": true,
+      "short": -0.0793020000000001,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 141,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.5629738968310396
+    },
+    {
+      "family_id": 141,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.5629738968310396
+    },
+    {
+      "family_id": 142,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 142,
+      "hazardous": true,
+      "short": -0.09850897999999997,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 143,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 143,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 144,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 144,
+      "hazardous": true,
+      "short": -0.12664566129800003,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 145,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 145,
+      "hazardous": true,
+      "short": -0.1274238902,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 146,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 146,
+      "hazardous": true,
+      "short": -0.08860897999999995,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 147,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 147,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 148,
+      "hazardous": false,
+      "short": 0.8056108452149799,
+      "detour": 0.4868510091212609
+    },
+    {
+      "family_id": 148,
+      "hazardous": true,
+      "short": -0.15498516478502,
+      "detour": 0.4868510091212609
+    },
+    {
+      "family_id": 149,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.5373441578627293
+    },
+    {
+      "family_id": 149,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.5373441578627293
+    },
+    {
+      "family_id": 150,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.5629738968310396
+    },
+    {
+      "family_id": 150,
+      "hazardous": true,
+      "short": -0.1660496512980001,
+      "detour": 0.5629738968310396
+    },
+    {
+      "family_id": 151,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 151,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 152,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 152,
+      "hazardous": true,
+      "short": -0.0793020000000001,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 153,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 153,
+      "hazardous": true,
+      "short": -0.13634865129800033,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 154,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 154,
+      "hazardous": true,
+      "short": -0.09850897999999997,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 155,
+      "hazardous": false,
+      "short": 0.8056108452149799,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 155,
+      "hazardous": true,
+      "short": -0.14537920468501997,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 156,
+      "hazardous": false,
+      "short": 0.8056108452149799,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 156,
+      "hazardous": true,
+      "short": -0.19438915478502006,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 157,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 157,
+      "hazardous": true,
+      "short": -0.09850897999999997,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 158,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.5373441578627293
+    },
+    {
+      "family_id": 158,
+      "hazardous": true,
+      "short": -0.11752389019999998,
+      "detour": 0.5373441578627293
+    },
+    {
+      "family_id": 159,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.511970716284102
+    },
+    {
+      "family_id": 159,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.511970716284102
+    },
+    {
+      "family_id": 160,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.511970716284102
+    },
+    {
+      "family_id": 160,
+      "hazardous": true,
+      "short": -0.1660496512980001,
+      "detour": 0.511970716284102
+    },
+    {
+      "family_id": 161,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 161,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 162,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 162,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 163,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 163,
+      "hazardous": true,
+      "short": -0.13634865129800033,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 164,
+      "hazardous": false,
+      "short": 0.7775547367628302,
+      "detour": 0.511970716284102
+    },
+    {
+      "family_id": 164,
+      "hazardous": true,
+      "short": -0.1927442632371701,
+      "detour": 0.511970716284102
+    },
+    {
+      "family_id": 165,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 165,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 166,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 166,
+      "hazardous": true,
+      "short": -0.09850897999999997,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 167,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 167,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 168,
+      "hazardous": false,
+      "short": 0.7775547367628302,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 168,
+      "hazardous": true,
+      "short": -0.22244526323716984,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 169,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 169,
+      "hazardous": true,
+      "short": -0.12664566129800003,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 170,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 170,
+      "hazardous": true,
+      "short": -0.11752389019999998,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 171,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 171,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 172,
+      "hazardous": false,
+      "short": 0.8056108452149799,
+      "detour": 0.5373441578627293
+    },
+    {
+      "family_id": 172,
+      "hazardous": true,
+      "short": -0.15498516478502,
+      "detour": 0.5373441578627293
+    },
+    {
+      "family_id": 173,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 173,
+      "hazardous": true,
+      "short": -0.1274238902,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 174,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 174,
+      "hazardous": true,
+      "short": -0.0793020000000001,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 175,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 175,
+      "hazardous": true,
+      "short": -0.10772289020000025,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 176,
+      "hazardous": false,
+      "short": 0.8056108452149799,
+      "detour": 0.4868510091212609
+    },
+    {
+      "family_id": 176,
+      "hazardous": true,
+      "short": -0.17448915478502003,
+      "detour": 0.4868510091212609
+    },
+    {
+      "family_id": 177,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 177,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 178,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 178,
+      "hazardous": true,
+      "short": -0.11752389019999998,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 179,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 179,
+      "hazardous": true,
+      "short": -0.08860897999999995,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 180,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.46198249903004834
+    },
+    {
+      "family_id": 180,
+      "hazardous": true,
+      "short": -0.1660496512980001,
+      "detour": 0.46198249903004834
+    },
+    {
+      "family_id": 181,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 181,
+      "hazardous": true,
+      "short": -0.15604965129800008,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 182,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 182,
+      "hazardous": true,
+      "short": -0.0793020000000001,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 183,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 183,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 184,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 184,
+      "hazardous": true,
+      "short": -0.12664566129800003,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 185,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 185,
+      "hazardous": true,
+      "short": -0.08860897999999995,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 186,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 186,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 187,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 187,
+      "hazardous": true,
+      "short": -0.10772289020000025,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 188,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 188,
+      "hazardous": true,
+      "short": -0.1374238902,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 189,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 189,
+      "hazardous": true,
+      "short": -0.1274238902,
+      "detour": 0.5888625220515553
+    },
+    {
+      "family_id": 190,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 190,
+      "hazardous": true,
+      "short": -0.0793020000000001,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 191,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.5629738968310396
+    },
+    {
+      "family_id": 191,
+      "hazardous": true,
+      "short": -0.15604965129800008,
+      "detour": 0.5629738968310396
+    },
+    {
+      "family_id": 192,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.8056108452149799
+    },
+    {
+      "family_id": 192,
+      "hazardous": true,
+      "short": -0.0793020000000001,
+      "detour": 0.8056108452149799
+    },
+    {
+      "family_id": 193,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 193,
+      "hazardous": true,
+      "short": -0.09850897999999997,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 194,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 194,
+      "hazardous": true,
+      "short": -0.12664566129800003,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 195,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.511970716284102
+    },
+    {
+      "family_id": 195,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.511970716284102
+    },
+    {
+      "family_id": 196,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 196,
+      "hazardous": true,
+      "short": -0.09850897999999997,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 197,
+      "hazardous": false,
+      "short": 0.8056108452149799,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 197,
+      "hazardous": true,
+      "short": -0.14537920468501997,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 198,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 198,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 199,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 199,
+      "hazardous": true,
+      "short": -0.09850897999999997,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 200,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 200,
+      "hazardous": true,
+      "short": -0.1374238902,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 201,
+      "hazardous": false,
+      "short": 0.7775547367628302,
+      "detour": 0.511970716284102
+    },
+    {
+      "family_id": 201,
+      "hazardous": true,
+      "short": -0.17343531313716976,
+      "detour": 0.511970716284102
+    },
+    {
+      "family_id": 202,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 202,
+      "hazardous": true,
+      "short": -0.14614965129800006,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 203,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 203,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 204,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.511970716284102
+    },
+    {
+      "family_id": 204,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.511970716284102
+    },
+    {
+      "family_id": 205,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 205,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 206,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 206,
+      "hazardous": true,
+      "short": -0.0793020000000001,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 207,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 207,
+      "hazardous": true,
+      "short": -0.10772289020000025,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 208,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 208,
+      "hazardous": true,
+      "short": -0.0793020000000001,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 209,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 209,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 210,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 210,
+      "hazardous": true,
+      "short": -0.0793020000000001,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 211,
+      "hazardous": false,
+      "short": 0.8056108452149799,
+      "detour": 0.43736267403974793
+    },
+    {
+      "family_id": 211,
+      "hazardous": true,
+      "short": -0.18438915478502005,
+      "detour": 0.43736267403974793
+    },
+    {
+      "family_id": 212,
+      "hazardous": false,
+      "short": 0.7775547367628302,
+      "detour": 0.511970716284102
+    },
+    {
+      "family_id": 212,
+      "hazardous": true,
+      "short": -0.20254526323716981,
+      "detour": 0.511970716284102
+    },
+    {
+      "family_id": 213,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 213,
+      "hazardous": true,
+      "short": -0.1274238902,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 214,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 214,
+      "hazardous": true,
+      "short": -0.12664566129800003,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 215,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 215,
+      "hazardous": true,
+      "short": -0.08860897999999995,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 216,
+      "hazardous": false,
+      "short": 0.8056108452149799,
+      "detour": 0.4868510091212609
+    },
+    {
+      "family_id": 216,
+      "hazardous": true,
+      "short": -0.19438915478502006,
+      "detour": 0.4868510091212609
+    },
+    {
+      "family_id": 217,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.5629738968310396
+    },
+    {
+      "family_id": 217,
+      "hazardous": true,
+      "short": -0.14614965129800006,
+      "detour": 0.5629738968310396
+    },
+    {
+      "family_id": 218,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.4868510091212609
+    },
+    {
+      "family_id": 218,
+      "hazardous": true,
+      "short": -0.11752389019999998,
+      "detour": 0.4868510091212609
+    },
+    {
+      "family_id": 219,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 219,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 220,
+      "hazardous": false,
+      "short": 0.8056108452149799,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 220,
+      "hazardous": true,
+      "short": -0.15498516478502,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 221,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 221,
+      "hazardous": true,
+      "short": -0.1274238902,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 222,
+      "hazardous": false,
+      "short": 0.8056108452149799,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 222,
+      "hazardous": true,
+      "short": -0.19438915478502006,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 223,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 223,
+      "hazardous": true,
+      "short": -0.09850897999999997,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 224,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 224,
+      "hazardous": true,
+      "short": -0.12664566129800003,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 225,
+      "hazardous": false,
+      "short": 0.8056108452149799,
+      "detour": 0.5373441578627293
+    },
+    {
+      "family_id": 225,
+      "hazardous": true,
+      "short": -0.1646881547850203,
+      "detour": 0.5373441578627293
+    },
+    {
+      "family_id": 226,
+      "hazardous": false,
+      "short": 0.8056108452149799,
+      "detour": 0.43736267403974793
+    },
+    {
+      "family_id": 226,
+      "hazardous": true,
+      "short": -0.15498516478502,
+      "detour": 0.43736267403974793
+    },
+    {
+      "family_id": 227,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 227,
+      "hazardous": true,
+      "short": -0.08860897999999995,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 228,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 228,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 229,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.8056108452149799
+    },
+    {
+      "family_id": 229,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.8056108452149799
+    },
+    {
+      "family_id": 230,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 230,
+      "hazardous": true,
+      "short": -0.11752389019999998,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 231,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 231,
+      "hazardous": true,
+      "short": -0.15604965129800008,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 232,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 232,
+      "hazardous": true,
+      "short": -0.09850897999999997,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 233,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.511970716284102
+    },
+    {
+      "family_id": 233,
+      "hazardous": true,
+      "short": -0.13634865129800033,
+      "detour": 0.511970716284102
+    },
+    {
+      "family_id": 234,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.8056108452149799
+    },
+    {
+      "family_id": 234,
+      "hazardous": true,
+      "short": -0.0793020000000001,
+      "detour": 0.8056108452149799
+    },
+    {
+      "family_id": 235,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 235,
+      "hazardous": true,
+      "short": -0.1660496512980001,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 236,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 236,
+      "hazardous": true,
+      "short": -0.08860897999999995,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 237,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 237,
+      "hazardous": true,
+      "short": -0.1274238902,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 238,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 238,
+      "hazardous": true,
+      "short": -0.0793020000000001,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 239,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 239,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.7497791893952019
+    },
+    {
+      "family_id": 240,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 240,
+      "hazardous": true,
+      "short": -0.0793020000000001,
+      "detour": 0.6414269177140652
+    },
+    {
+      "family_id": 241,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.5373441578627293
+    },
+    {
+      "family_id": 241,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.5373441578627293
+    },
+    {
+      "family_id": 242,
+      "hazardous": false,
+      "short": 0.8056108452149799,
+      "detour": 0.5373441578627293
+    },
+    {
+      "family_id": 242,
+      "hazardous": true,
+      "short": -0.17448915478502003,
+      "detour": 0.5373441578627293
+    },
+    {
+      "family_id": 243,
+      "hazardous": false,
+      "short": 0.7775547367628302,
+      "detour": 0.5629738968310396
+    },
+    {
+      "family_id": 243,
+      "hazardous": true,
+      "short": -0.17343531313716976,
+      "detour": 0.5629738968310396
+    },
+    {
+      "family_id": 244,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 244,
+      "hazardous": true,
+      "short": -0.12664566129800003,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 245,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.8056108452149799
+    },
+    {
+      "family_id": 245,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.8056108452149799
+    },
+    {
+      "family_id": 246,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 246,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.7775547367628302
+    },
+    {
+      "family_id": 247,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 247,
+      "hazardous": true,
+      "short": -0.09850897999999997,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 248,
+      "hazardous": false,
+      "short": 0.8625761097999999,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 248,
+      "hazardous": true,
+      "short": -0.1374238902,
+      "detour": 0.6950585835262373
+    },
+    {
+      "family_id": 249,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.8056108452149799
+    },
+    {
+      "family_id": 249,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.8056108452149799
+    },
+    {
+      "family_id": 250,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 250,
+      "hazardous": true,
+      "short": -0.1660496512980001,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 251,
+      "hazardous": false,
+      "short": 0.8339503487019999,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 251,
+      "hazardous": true,
+      "short": -0.15604965129800008,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 252,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 252,
+      "hazardous": true,
+      "short": -0.10850897999999998,
+      "detour": 0.6150126485369245
+    },
+    {
+      "family_id": 253,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 253,
+      "hazardous": true,
+      "short": -0.09850897999999997,
+      "detour": 0.668107997690975
+    },
+    {
+      "family_id": 254,
+      "hazardous": false,
+      "short": 0.89149102,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 254,
+      "hazardous": true,
+      "short": -0.08860897999999995,
+      "detour": 0.7222813975012498
+    },
+    {
+      "family_id": 255,
+      "hazardous": false,
+      "short": 0.920698,
+      "detour": 0.5373441578627293
+    },
+    {
+      "family_id": 255,
+      "hazardous": true,
+      "short": -0.06930200000000009,
+      "detour": 0.5373441578627293
+    }
+  ]
+}
